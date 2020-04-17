@@ -1,0 +1,15 @@
+#fields label {
+    color: grey;
+    font-size: small;
+}
+
+.inputField {
+    width : 70%;
+    border: none;
+    border-bottom: 2px dotted;
+    border-color: #d3d3d3;
+}
+
+span {
+    font-size: small;
+}
